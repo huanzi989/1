@@ -10,7 +10,7 @@
       "key": "豆瓣",
       "name": "┃豆瓣┃推荐",
       "type": 3,
-      "api": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/YANGkai989/huanzi989/refs/heads/main/%E8%B1%86%E7%93%A3/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
