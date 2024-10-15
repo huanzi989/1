@@ -1,0 +1,69 @@
+{
+   "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.jar",
+// "spider": "里面是爬虫文件的网站访问路径，也就是刚才我们上传的爬虫文件，下面的南瓜以来这个爬虫文件",
+
+
+
+    "sites": [
+//  "sites":[视频源]   这是固定格式，视频源放到这个格式里面 
+     {
+      "key": "hipy_js_豆瓣[官]",
+      "name": "🍥┃豆瓣┃推荐🍥首次加载稍慢，请稍等片刻... ...",
+      "type": 3,
+      "api": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%86%E7%93%A3.js"
+    },
+
+
+  {"key": "csp_NanGua","name": "南瓜┃APP","type": 3,
+   "jar": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/0924.jar",
+   "searchable": 1, "quickSearch": 1, "changeable": 1 ,
+   "api": "csp_NanGua","playerType": 2},  
+// 南瓜视频源，里面用英文逗号区分参数
+//"key": "里面可以随便填与其他不重复就行",
+//"name": "里面可以随便填与其他不重复就行",TV BOX里面显示片源名称
+//"type": 3, 自定义样式
+// "searchable": 1, "quickSearch": 1, "changeable": 1 ,参数只有0和1是否允许南瓜片源被搜索
+// "api": "csp_NanGua",是上面爬虫内置接口的一种方式，依赖上面爬虫运作
+//"playerType": 2, 参数有0和1和2。 0代表默认播放器，1使用IJK，2使用EXO。
+//视频源格式就是这样
+
+ {
+   "key": "LIVIO", "name": "LIVIO","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable":1 ,
+   "ext": { "分类url": "https://libvio.fun/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+           "分类": "电影&剧集&动漫&日韩剧&欧美剧", "分类值": "1&2&4&15&16"}},
+
+
+
+ {
+   "key": "无敌", "name": "1080P","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable":1 ,
+   "ext": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/无敌.json"},
+
+
+{ 
+    "key": "华为资源",  "name": "🍦采集资源（好吃）", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/",
+  "searchable":1,"quickSearch":1,"changeable":1 }
+ 
+
+//后面所有增加的视频首页源内容都在这两个括号前面
+
+    ], 
+//解析添加到这个]括号的后面，记得添加逗号
+  "parses": [
+        {"name":"解析聚合","type":3,"url":"Demo"},
+        {"name":"Web聚合","type":3,"url":"Web"},
+{ "name": "虾米1", "url": "https://jx.xmflv.cc/?url=", "type": 0, "ext": { "flag": [  "qiyi",  "imgo", "搜狐","爱奇艺", "奇艺",   "qq", "qq 预告及花絮","腾讯", "youku",  "优酷", "pptv", "PPTV","letv", "乐视","rx","1905","ltnb","哔哩","哔哩哔哩","bilibili", "leshi", "mgtv", "芒果", "sohu","xigua", "fun","风行","木耳","可可" ] } },
+  {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV","木耳","可可"]}}
+  ], 
+//直播源添加到最后}括号前面，补全上面的逗号
+ "lives":[ 
+    {"name": "huanzi9989","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","playerType": 1,"ua": "okhttp/3.15",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
+
+ 
+
+}
