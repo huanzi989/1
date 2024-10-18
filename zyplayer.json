@@ -19,7 +19,7 @@
 
     {
       "name": "金牌影院（1080P）",
-      "api": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/drpy2.min.js",
       "playUrl": "",
       "group": "hipy",
       "search": 1,
@@ -33,26 +33,11 @@
 
 
 
-    {
-      "name": "牌牌影视",
-      "api": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/drpy2.min.js",
-      "playUrl": "",
-      "group": "hipy",
-      "search": 1,
-      "isActive": true,
-      "type": 7,
-      "ext": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/%E7%89%8C%E7%89%8C%E5%BD%B1%E9%99%A2.js",
-      "categories": "",
-      "id": "61d40bc1-8eed-4614-8dae-332838d8288d"
-    },
-
-
-
 
 
     {
       "name": "闪电雷",
-      "api": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/drpy2.min.js",
       "playUrl": "",
       "group": "hipy",
       "search": 1,
@@ -68,7 +53,7 @@
 
     {
       "name": "libvio",
-      "api": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/drpy2.min.js",
       "playUrl": "",
       "group": "hipy",
       "search": 1,
@@ -88,7 +73,7 @@
       "id": "74IgMEr7iHu5ZFcvwfuQv",
       "name": "爱动漫（1080P动漫）",
       "type": 7,
-      "api": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/drpy2.min.js",
       "group": "hipy",
       "search": 1,
       "categories": null,
