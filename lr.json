@@ -34,15 +34,16 @@
     },
 
 
-   {
-     "key":"php_bttwoo",
-     "name":"bttwoo",
-     "type":4,
-     "api":"https://json.doube.eu.org/app/index.php?site=web=bttwoo&filter=true",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
-   },
+ {
+      "key": "php_bttwoo",
+      "name": "TwoBT",
+      "type": 4,
+      "api": "https://json.doube.eu.org/app/app/index.php?site=bttwoo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
 
 
        
