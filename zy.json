@@ -7,14 +7,14 @@
     "sites": [
 
   {
-      "key": "老人豆瓣",
-      "name": "老人豆瓣",
+      "key": "年轻人豆瓣",
+      "name": "年轻人豆瓣",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": " ./豆瓣/老人豆瓣.js "
+      "ext": " ./豆瓣/年轻人豆瓣.js "
     },
 
 
@@ -93,8 +93,9 @@
 
 
 
-
  // {"key":"克隆", "name":"克隆(采集资源)","type":4,"api":"https://api.paoyun.eu.org/klhj.php","searchable":1,"quickSearch":1,"filterable":1}, 
+
+
 
 
 
@@ -146,7 +147,7 @@
 
  //{"key":"碟迷(有广)","name":"碟迷(有广)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./XBPQ/碟迷(有广).json"},
 
- //{"key":"kimivod（黑木耳资源）","name":"kimivod","type":3,"api":"csp_XBPQ","searchable":1, "quickSearch":1, "filterable":1,"ext": "./XBPQ/kimivod.json"},
+ //{"key":"kimivod(黑木耳资源)","name":"kimivod","type":3,"api":"csp_XBPQ","searchable":1, "quickSearch":1, "filterable":1,"ext": "./XBPQ/kimivod.json"},
 
  //{ "key":"85k影视(720P)","name":"85k影视(720P)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./XBPQ/85k影视(720P).json"},
 

@@ -1,0 +1,19 @@
+//https://www.catwcy.com/show/1/page/3/year/2024.html
+
+//https://www.catwcy.com/show/{cateId}/page/{catePg}/year/{year}.html
+
+
+
+{
+
+    "主页":"https://www.catwcy.com/",
+
+    "简介":"一键三连+剧情介绍：&&</p >",
+    
+    "分类url":"https://www.catwcy.com/show/{cateId}/page/{catePg}/year/{year}.html",
+    
+    "分类":"日本动漫$1#动漫电影$2#欧美动漫$25#4K专区$26",
+    
+    "搜索url":"/search.html?wd={wd}"
+    
+}
