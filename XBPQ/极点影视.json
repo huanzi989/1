@@ -1,1 +1,12 @@
+//https://nnsvip.sbs/vodshow/28-日本-------2---2024.html
 
+//https://nnsvip.sbs/vodshow/{cateId}-{area}-------{catePg}---{year}.html
+{
+
+    "主页":"https://nnsvip.sbs/",
+  
+    "分类url":"https://nnsvip.sbs/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+    
+    "分类":"电影$1#剧集$2#动漫$4#综艺$3#短剧$39"
+    
+}
