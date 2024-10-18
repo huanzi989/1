@@ -3,7 +3,7 @@
    
     {
       "name": "海报墙--无法播放",
-      "api": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/drpy2.min.js",
       "playUrl": "",
       "group": "hipy",
       "search": 0,
