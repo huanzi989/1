@@ -40,8 +40,8 @@
       "type": 4,
       "api": "https://json.doube.eu.org/app/app/index.php?site=bttwoo",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
       "changeable": 0
     },
 
