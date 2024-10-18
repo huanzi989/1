@@ -67,7 +67,7 @@
      "name":"非凡",
      "type":4,
      "api":"http://api.ffzyapi.com/api.php/provide/vod/from/",
-     "playType":"https://jx.2s0.cn/player/?url=",
+     "playurl":"https://jx.2s0.cn/player/?url=",
      "searchable":1,
      "quickSearch":1,
      "filterable":1
