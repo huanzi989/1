@@ -1,9 +1,11 @@
+//国内加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/drpy2.min.js
+
 {
   "tbl_site": [
    
     {
       "name": "海报墙--无法播放",
-      "api": "https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/drpy2.min.js",
       "playUrl": "",
       "group": "hipy",
       "search": 0,
