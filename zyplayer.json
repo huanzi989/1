@@ -11,7 +11,7 @@
       "search": 0,
       "isActive": true,
       "type": 7,
-      "ext": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/%E8%8D%90%E7%89%87.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/%E8%8D%90%E7%89%87.js",
       "categories": "",
       "id": "25ead58b-cd39-48da-9980-453989f9e368"
     },
@@ -25,7 +25,7 @@
       "search": 1,
       "isActive": true,
       "type": 7,
-      "ext": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js",
       "categories": "",
       "id": "ea5343b2-39af-4b6b-83d1-074ccb008040"
     },
@@ -43,7 +43,7 @@
       "search": 1,
       "isActive": true,
       "type": 7,
-      "ext": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/%E9%97%AA%E9%9B%B7%E7%94%B5.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/%E9%97%AA%E9%9B%B7%E7%94%B5.js",
       "categories": "",
       "id": "4b8449a3-1b1a-4c76-8f95-3f1b02336d90"
     },
@@ -59,7 +59,7 @@
       "search": 1,
       "isActive": true,
       "type": 7,
-      "ext": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/libvio.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/libvio.js",
       "categories": "",
       "id": "df0836fa-bf05-4f2c-be81-415d2d3028b5"
     },
@@ -77,7 +77,7 @@
       "group": "hipy",
       "search": 1,
       "categories": null,
-      "ext": "https://gitee.com/huanzi9989/self-use-tv-box/raw/master/zyplayer/%E7%88%B1%E5%8A%A8%E6%BC%AB.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zyplayer/%E7%88%B1%E5%8A%A8%E6%BC%AB.js",
       "isActive": true,
       "status": true
     },
