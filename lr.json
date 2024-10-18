@@ -35,6 +35,19 @@
 
 
    {
+     "key":"php_bttwoo",
+     "name":"bttwoo",
+     "type":4,
+     "api":"https://json.doube.eu.org/app/index.php?site=web=bttwoo&filter=true",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+   },
+
+
+       
+
+   {
      "key":"采集",
      "name":"heimuer(1080P)",
      "type":4,
