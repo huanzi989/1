@@ -40,7 +40,7 @@
       "key": "php_bttwoo",
       "name": "TwoBT",
       "type": 4,
-      "api": "https://json.doube.eu.org/app/index.php?site=webbttwoo",
+      "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
