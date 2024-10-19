@@ -49,16 +49,7 @@
     },
 
 
-   {
-      "key": "素白白",
-      "name": "素白白",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/素白白.js"
-    },
+
 
 
    {
