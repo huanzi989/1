@@ -62,16 +62,7 @@
 
 
 
-{
-   "key": "海兔影院",
-   "name": "海兔影院",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./XBPQ/海兔影院.json"
-},
+
 
        
        
@@ -126,7 +117,21 @@
     },
 
 
-     
+ {
+       "key": "厂长资源",
+       "name": "厂长资源",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "./lib/厂长资源.js"
+        },
+
+
+
+
+       
        
 
    {
