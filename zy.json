@@ -48,7 +48,71 @@
 },
 
 
-   {
+{
+   "key": "NO视频",
+   "name": "NO视频",
+   "type": 3,"api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/NO视频.json"
+},
+
+
+{
+   "key": "狐狸看剧",
+   "name": "狐狸看剧",
+   "type": 3,"api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/狐狸看剧.json"
+},       
+
+
+
+{
+   "key": "海兔影院",
+   "name": "海兔影院",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/海兔影院.json"
+},
+
+
+
+       
+
+{
+      "key": "6v",
+      "name": "6v",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/6v.json"
+    },
+
+
+       
+       
+{
+   "key": "飞行资源",
+   "name": "飞行资源",
+   "type": 3,"api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/飞行资源.json"
+},
+       
+       
+
+  {
       "key": "厂长",
       "name": "厂长",
       "type": 3,
@@ -58,8 +122,21 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://czzy.top/"
-    },      
+    },
 
+
+ {
+       "key": "厂长资源",
+       "name": "厂长资源",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "./lib/厂长资源.js"
+        },
+
+       
 
    {
       "key": "低端影视",
@@ -74,8 +151,6 @@
     },
 
 
-
-
    {
       "key": "闪雷电",
       "name": "闪雷电",
@@ -86,6 +161,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/闪雷电(略卡).js"
     },
+
     
        
 
