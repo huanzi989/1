@@ -52,17 +52,7 @@
 
 
 
-   {
-      "key": "纽约影视",
-      "name": "纽约影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/纽约影视.js"
-    },       
+    
        
 
    {
