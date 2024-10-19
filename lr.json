@@ -59,7 +59,15 @@
    "ext": "./XBPQ/NO视频.json"
 },
 
-
+{
+   "key": "飞行资源",
+   "name": "飞行资源",
+   "type": 3,"api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/飞行资源.json"
+},
        
        
 
