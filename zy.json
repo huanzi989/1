@@ -36,11 +36,45 @@
     },
 
 
+   {
+      "key": "低端影视",
+      "name": "低端影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/低端影视.js"
+    },
 
 
+   {
+      "key": "素白白",
+      "name": "素白白",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/素白白.js"
+    },
+
+
+   {
+      "key": "纽约影视",
+      "name": "纽约影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/纽约影视.js"
+    },       
        
 
-       
    {
      "key":"采集",
      "name":"heimuer(1080P)",
@@ -57,7 +91,7 @@
      "key":"hw8采集",
      "name":"hw8(1080P)",
      "type":4,
-     "api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba&filter=true",
+     "api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba",
      "searchable":1,
      "quickSearch":1,
      "filterable":1
