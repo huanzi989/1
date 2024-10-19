@@ -91,7 +91,8 @@
    "name": "hw8资源", 
    "type": 1,  
    "api": "http://nikanba.live/api.php/provide/vod/",
-  "searchable":1,
+   "playerType": 1,
+   "searchable":1,
    "quickSearch":1,
    "changeable":1
 },
