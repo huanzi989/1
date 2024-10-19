@@ -56,7 +56,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/素白白.js"
     },
