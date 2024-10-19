@@ -69,6 +69,22 @@
    "filterable": 1,
    "ext": "./XBPQ/狐狸看剧.json"
 },       
+
+
+
+{
+   "key": "海兔影院",
+   "name": "海兔影院",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/海兔影院.json"
+},
+
+
+
        
 
 {
