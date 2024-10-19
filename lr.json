@@ -134,18 +134,7 @@
 
 
  
-  {
-      "key": "南瓜",
-      "name": "南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar":"./老人/fix24108.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 2,
-      "ext": ""
-    },
+
 
 
 
