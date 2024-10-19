@@ -37,16 +37,19 @@
 
 
 
-
-{
-   "key": "NO视频",
-   "name": "NO视频",
-   "type": 3,"api": "csp_XBPQ", 
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./XBPQ/NO视频.json"
-},
+  {
+      "key": "星辰",
+      "name": "星辰",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/星辰.js"
+    },
+       
+       
 
 
 {
@@ -58,22 +61,6 @@
    "filterable": 1,
    "ext": "./XBPQ/狐狸看剧.json"
 },       
-
-
-
-{
-   "key": "海兔影院",
-   "name": "海兔影院",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "./XBPQ/海兔影院.json"
-},
-
-
-
 
 
        
@@ -89,20 +76,6 @@
 },
        
        
-
-
-
- {
-       "key": "厂长资源",
-       "name": "厂长资源",
-       "type": 3,
-       "api": "./lib/drpy2.min.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "./lib/厂长资源.js"
-        },
-
        
 
    {
@@ -117,6 +90,7 @@
       "ext": "./lib/低端影视.js"
     },
 
+       
 
    {
       "key": "闪雷电",
@@ -129,7 +103,19 @@
       "ext": "./lib/闪雷电(略卡).js"
     },
 
-    
+       
+
+ {
+       "key": "厂长资源",
+       "name": "厂长资源",
+       "type": 3,
+       "api": "./lib/drpy2.min.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "./lib/厂长资源.js"
+        },
+   
        
 
    {
@@ -137,12 +123,14 @@
      "name":"heimuer(1080P)",
      "type":4,
      "api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true",
+     "playerType": 1,
      "searchable":1,
      "quickSearch":1,
      "filterable":1
    },
 
 
+       
 
 { 
     "key": "华为资源",  
@@ -156,6 +144,8 @@
 },
 
 
+
+       
   {
       "key": "瓜子",
       "name": "瓜子(1080P)",
