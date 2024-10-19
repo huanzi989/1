@@ -59,6 +59,19 @@
    "ext": "./XBPQ/NO视频.json"
 },
 
+
+{
+   "key": "狐狸看剧",
+   "name": "狐狸看剧",
+   "type": 3,"api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/狐狸看剧.json"
+},       
+       
+
+       
 {
    "key": "飞行资源",
    "name": "飞行资源",
