@@ -80,18 +80,17 @@
     },
 
        
-
     {
-      "key": "厂长",
-      "name": "厂长",
+      "key": "Cz",
+      "name": "Cz",
       "type": 3,
       "api": "csp_NewCz",
       "searchable": 1,
       "changeable": 1,
       "playerType": 1,
-      "jar": "./cz.jar"
+      "jar": "./Cz.jar"
     },
-   
+
        
 
    {
