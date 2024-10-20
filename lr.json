@@ -87,6 +87,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 1,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/闪雷电(略卡).js"
     },
