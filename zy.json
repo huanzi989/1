@@ -79,6 +79,22 @@
       "ext": "./lib/闪雷电(略卡).js"
     },
 
+
+
+    {
+      "key": "南瓜",
+      "name": "南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "jar": "./Cz.jar"
+    },
+
+
+
+       
        
     {
       "key": "Cz",
