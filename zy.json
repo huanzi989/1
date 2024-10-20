@@ -81,16 +81,16 @@
 
        
 
- {
-       "key": "厂长资源",
-       "name": "厂长资源",
-       "type": 3,
-       "api": "./lib/drpy2.min.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "./lib/厂长资源.js"
-        },
+    {
+      "key": "厂长",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_NewCz",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "jar": "./cz.jar"
+    },
    
        
 
