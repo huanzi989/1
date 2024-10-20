@@ -22,15 +22,6 @@
     },
 
 
-    {
-      "key": "南瓜影视",
-      "name": "南瓜",
-      "type": 3,
-      "api": "csp_Nangua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
 
     {
@@ -73,26 +64,7 @@
       "ext": "./lib/星辰.js"
     },
        
-       
-
-  
-
-
-                          
-
-
- {
-       "key": "厂长资源",
-       "name": "厂长资源",
-       "type": 3,
-       "api": "./lib/drpy2.min.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "./lib/厂长资源.js"
-        },
-
-       
+              
 
    {
       "key": "低端影视",
