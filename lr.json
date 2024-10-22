@@ -180,7 +180,15 @@
 
 
 
-
+{
+   "key": "布卡影视",
+   "name": "布卡影视",
+   "type": 3,
+   "api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/布卡影视(无广).json"},
 
 
 
