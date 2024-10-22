@@ -1,9 +1,0 @@
-{
-                "副标题": "一键三连",
-    
-                "搜索url": "https://www.bk-yy.com/vodsearch/-------------.html?wd={wd}", 
-  
-                "分类url": "https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-  
-                "分类": "电影$1#电视剧$2#动漫$4综艺$3"
-    }
