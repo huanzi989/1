@@ -1,6 +1,6 @@
-//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zy9.json
+//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/南瓜.json
 
-//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zy9.json
+//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/南瓜.json
 
 {
    "spider": "./zy9.jar",
@@ -36,6 +36,21 @@
       "playerType": 1,
       "jar": "./Cz.jar"
     },
+
+
+    {
+      "key": "南瓜影视",
+      "name": "🍪南瓜影视",
+      "type": 3,
+      "api": "csp_NanGuaQJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+
+
+
 
        
 
