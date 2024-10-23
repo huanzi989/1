@@ -32,9 +32,9 @@
    "name": "金牌影视(1080P)",
    "type": 3,
    "api": "csp_XBPQ", 
-   "searchable": 1,
+   "searchable": 0,
    "quickSearch": 1,
-   "filterable": 1,
+   "filterable": 0,
    "ext": "./XBPQ/金牌影视.json"
 },
 
