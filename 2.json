@@ -1,6 +1,6 @@
-//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/南瓜.json
+//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/2.json
 
-//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/南瓜.json
+//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/2.json
 
 {
    "spider": "./zy9.jar",
@@ -51,7 +51,15 @@
 
 
 
-
+ {
+      "key": "电影港",
+      "name": "🚢电影港",
+      "type": 3,
+      "api": "csp_Dygang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
        
 
        
