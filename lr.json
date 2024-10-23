@@ -106,7 +106,7 @@
      "name":"heimuer(1080P)",
      "type":4,
      "api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true",
-     "playerType": 1,
+     "playerType": 2,
      "searchable":1,
      "quickSearch":1,
      "filterable":1
@@ -119,7 +119,7 @@
    "name": "hw8资源", 
    "type": 1,  
    "api": "http://nikanba.live/api.php/provide/vod/",
-   "playerType": 1,
+   "playerType": 2,
    "searchable":1,
    "quickSearch":1,
    "changeable":1
