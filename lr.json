@@ -73,6 +73,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
+   "playerType": 1,
    "ext": "./XBPQ/星辰影视.json"
 },
 
