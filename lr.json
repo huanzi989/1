@@ -65,7 +65,20 @@
       "ext": "./lib/星辰.js"
     },
        
-              
+
+{
+   "key": "星辰2",
+   "name": "星辰2",
+   "type": 3,"api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/星辰影视.json"
+},
+
+
+
+       
 
    {
       "key": "低端影视",
