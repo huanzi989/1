@@ -53,22 +53,12 @@
 
 
 
-  {
-      "key": "星辰",
-      "name": "星辰",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/星辰.js"
-    },
+ // {"key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1, "api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
        
 
 {
-   "key": "星辰2",
-   "name": "星辰2",
+   "key": "星辰",
+   "name": "星辰",
    "type": 3,"api": "csp_XBPQ", 
    "searchable": 1,
    "quickSearch": 1,
