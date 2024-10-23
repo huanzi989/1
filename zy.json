@@ -203,8 +203,17 @@
 
 
 
-
-
+ {
+      "key": "南瓜影视",
+      "name": "南瓜影视(快速检索)",
+      "type": 3,
+      "api": "csp_NanGuaQJ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./zy9.jar",
+      "ext": ""
+    },
 
 
 
