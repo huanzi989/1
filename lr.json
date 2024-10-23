@@ -86,17 +86,19 @@
     },
 
 
-   {
-      "key": "闪雷电",
-      "name": "闪雷电",
+ {
+      "key": "☄闪雷电",
+      "name": "☄闪雷电",
       "type": 3,
+      "api": "csp_Slys", 
+      "jar": "./zy9.jar",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/闪雷电(略卡).js"
+      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
     },
+
 
 
 
