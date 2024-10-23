@@ -59,6 +59,16 @@
               
                     
       
+{
+   "key": "星辰",
+   "name": "星辰",
+   "type": 3,"api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 1,
+   "ext": "./XBPQ/星辰影视.json"
+},
        
        
 
