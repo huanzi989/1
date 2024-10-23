@@ -40,7 +40,7 @@
 
     {
       "key": "南瓜影视",
-      "name": "🍪南瓜影视",
+      "name": "南瓜影视",
       "type": 3,
       "api": "csp_NanGuaQJ",
       "searchable": 1,
@@ -51,15 +51,7 @@
 
 
 
- {
-      "key": "电影港",
-      "name": "🚢电影港",
-      "type": 3,
-      "api": "csp_Dygang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
        
 
        
