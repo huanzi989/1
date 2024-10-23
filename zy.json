@@ -27,6 +27,21 @@
 
        
        
+ {
+   "key": "金牌影视",
+   "name": "金牌影视(1080P)",
+   "type": 3,
+   "api": "csp_XBPQ", 
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "./XBPQ/金牌影视.json"
+},
+
+
+       
+
+
     {
       "key": "Cz",
       "name": "Cz",
@@ -43,7 +58,7 @@
 
        
 {
-   "key": "金牌影视",
+   "key": "酸梅汁",
    "name": "酸梅汁(1080P)",
    "type": 3,
    "searchable": 1,
@@ -135,7 +150,7 @@
 
   {
       "key": "瓜子",
-      "name": "瓜子(1080P)",
+      "name": "瓜子",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -159,8 +174,6 @@
      "playerType": 1,
       "ext": "./lib/爱动漫.js"
     },
-
-
 
 
 
