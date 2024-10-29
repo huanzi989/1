@@ -203,7 +203,7 @@
 
  {
       "key": "南瓜影视",
-      "name": "南瓜影视(快速检索)",
+      "name": "南瓜影视(低码率)",
       "type": 3,
       "api": "csp_NanGuaQJ",
       "searchable": 1,
