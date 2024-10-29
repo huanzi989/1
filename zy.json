@@ -64,7 +64,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 2,
+   "playerType": 1,
    "api": "./lib/drpy2.min.js",
    "ext": "./lib/金牌影视.js"
 },
@@ -208,9 +208,9 @@
       "name": "南瓜影视(快速检索)",
       "type": 3,
       "api": "csp_NanGuaQJ",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "jar": "./zy9.jar",
       "ext": ""
     },
