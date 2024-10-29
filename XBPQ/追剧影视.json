@@ -1,7 +1,19 @@
-//https://zjuys.com/vod/show/id/4/area/%E6%97%A5%E6%9C%AC/year/2024/page/2
+//https://zjuys.com/vod/show/id/4/area/日本/year/2024/page/2
 
-{
-  
+//https://zjuys.com/vod/show/id/{cateId}/area/{area}/year/{year}/page/{catePg}
+
+
+
+  { 
+   "站名": "追剧影视",
+   "主页url": "https://zjuys.com/",
+   "分类url": "https://zjuys.com/vod/show/id/{cateId}/area/{area}/year/{year}/page/{catePg}",
+ //  "线路数组": "<h3 class=\"iconfont&&</div>",
+ //  "线路标题": ">&&<[不包含:HD5#视频下载]",
+   "分类": "电影&电视剧&动漫&综艺",
+   "分类值": "1&2&4&3"
+   
+}
   
 
 				}
