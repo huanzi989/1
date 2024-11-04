@@ -18,6 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "ext": " ./豆瓣/年轻人豆瓣.js "
     },
 
@@ -64,7 +65,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "playerType": 1,
+   "playerType": 2,
    "api": "./lib/drpy2.min.js",
    "ext": "./lib/金牌影视.js"
 },
@@ -211,6 +212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 2,
       "jar": "./zy9.jar",
       "ext": ""
     },
