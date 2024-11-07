@@ -128,16 +128,7 @@
 
 
 
-{ 
-    "key": "华为资源",  
-   "name": "hw8资源", 
-   "type": 1,  
-   "api": "http://nikanba.live/api.php/provide/vod/",
-   "playerType": 2,
-   "searchable":1,
-   "quickSearch":1,
-   "changeable":1
-},
+//{ "key": "华为资源",  "name": "hw8资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","playerType": 2,"searchable":1,"quickSearch":1,  "filterable":1},
 
 
 
