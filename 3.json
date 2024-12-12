@@ -238,7 +238,7 @@
   ], 
 //直播源添加到最后}括号前面，补全上面的逗号
  "lives":[ 
-    {"name": "huanzi9989","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","playerType": 1,"ua": "okhttp/3.15",
+    {"name": "huanzi9989","type": 0,"url": "https://json.doube.eu.org/live/migu/Sub.php","playerType": 1,"ua": "okhttp/3.15",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
 
    
