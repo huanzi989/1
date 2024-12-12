@@ -1,6 +1,6 @@
-//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/3.json
+//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/10.json
 
-//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/3.json
+//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/10.json
 
 {
    "spider": "./zy9.jar",
@@ -146,7 +146,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "jar": "./Cz.jar"
+      "jar": "./fix241202.jar"
       "ext": ""
     },
     {
@@ -155,6 +155,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
@@ -163,6 +164,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
     {
@@ -171,6 +173,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "daHR0cDovL3YubGt1eXMuY24="
     },
     {
@@ -179,6 +182,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
     },
     {
@@ -187,6 +191,7 @@
       "type": 3,
       "api": "csp_Muou",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcC8="
     },
     {
@@ -195,6 +200,7 @@
       "type": 3,
       "api": "csp_Muou",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzLw=="
     },
     {
@@ -203,6 +209,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXx4ZHlzLnZpcHhkeXMudmlwfHhkeXMudmlweGR5cy52aXA="
     },
     {
@@ -211,6 +218,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
     },
     {
@@ -219,6 +227,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
     },
     {
@@ -227,6 +236,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
     },
     {
@@ -235,6 +245,7 @@
       "type": 3,
       "api": "csp_Frong",
       "playerType": 2,
+      "jar": "./fix241202.jar"
       "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
     },
     {
@@ -243,6 +254,7 @@
       "type": 3,
       "api": "csp_Slys",
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
     },
     {
@@ -251,47 +263,12 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
+      "jar": "./fix241202.jar"
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
-    {
-      "key": "AI2",
-      "name": "AI2┃仅搜索",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="
-    },
-    {
-      "key": "AI3",
-      "name": "AI3┃仅搜索",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp"
-    },
-    {
-      "key": "AI4",
-      "name": "AI4┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
-    },
-    {
-      "key": "Dygang",
-      "name": "电影港[边下边播]",
-      "type": 3,
-      "api": "csp_Dygang"
-    },
+  
+ 
+
     {
       "key": "蚂蚁",
       "name": "蚂蚁┃App",
@@ -301,6 +278,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 1,
+      "jar": "./fix241202.jar"
       "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
     },
     {
@@ -311,18 +289,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "./fix241202.jar"
       "ext": "faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="
     },
-    {
-      "key": "NoSearch_csp_DiDuan",
-      "name": "低端┃无搜索",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+ 
     {
       "key": "快看",
       "name": "快看┃直连",
@@ -332,18 +302,9 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1
+      "jar": "./fix241202.jar"
     },
-    {
-      "key": "360_spider",
-      "name": "360┃解析",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "playerType": 2,
-      "ext": ""
-    },
+
     {
       "key": "ZXZJ",
       "name": "在线┃直连",
@@ -353,6 +314,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "playerType": 2,
+      "jar": "./fix241202.jar"
       "ext": ""
     },
     {
@@ -364,18 +326,10 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "./fix241202.jar"
       "ext": "maHR0cHM6Ly9jenp5LnRvcC8="
     },
-    {
-      "key": "csp_Auete",
-      "name": "Auete┃无搜索",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
     {
       "key": "NoSearch_csp_BBB",
       "name": "哔哩哔哩",
@@ -384,6 +338,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
+      "jar": "./fix241202.jar"
       "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
     },
 
