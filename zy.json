@@ -112,19 +112,7 @@
 
 
 
- {
-      "key": "南瓜",
-      "name": "南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "jar": "./fix241202.jar"
-      "ext": ""
-    },
-       
+
        
 
    //{"key":"采集", "name":"heimuer(1080P)", "type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true", "playerType": 2,"searchable":1, "quickSearch":1,"filterable":1},
@@ -191,18 +179,7 @@
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------\\
 
-    {
-      "key": "NoSearch_csp_BBB",
-      "name": "哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./fix241202.jar"
-      "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u"
-    },
-
+ 
 
        
 
