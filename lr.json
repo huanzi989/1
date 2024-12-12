@@ -104,7 +104,18 @@
       "ext": "./lib/低端影视.js"
     },
 
-
+ {
+      "key": "南瓜",
+      "name": "南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "jar": "./fix241202.jar"
+      "ext": ""
+    },
 
 
        
