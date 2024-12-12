@@ -68,7 +68,7 @@
        
 
  {  "key": "星辰",
-    "name": "星辰",
+    "name": "星辰(用IJK解码)",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
