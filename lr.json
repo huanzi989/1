@@ -1,6 +1,6 @@
-//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json（速度不错）
+//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json
 
-//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json（有点卡）
+//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json
 
 {
    "spider": "./zy.jar",
@@ -23,7 +23,16 @@
     },
 
 
-// {"key": "金牌影视","name": "金牌影视(1080P)", "type": 3, "api": "csp_XBPQ", "searchable": 0,"quickSearch": 1,"filterable": 0, "ext": "./XBPQ/金牌影视.json"},//失效     
+ {
+   "key": "金牌影视",
+   "name": "金牌影视(1080P)",
+   "type": 3,
+   "api": "csp_XBPQ", 
+   "searchable": 0,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "./XBPQ/金牌影视.json"
+},     
 
 
     {
@@ -173,9 +182,31 @@
 
 
 
+ {
+      "key": "南瓜影视",
+      "name": "南瓜影视(低码率)",
+      "type": 3,
+      "api": "csp_NanGuaQJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "jar": "./zy9.jar",
+      "ext": ""
+    },
 
 
 
+ {
+   "key": "LIVIO",
+    "name": "LIVIO（不被搜索）",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+   "ext": { "分类url": "https://libvio.fun/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+           "分类": "电影&剧集&动漫&日韩剧&欧美剧", "分类值": "1&2&4&15&16"}},
 
  //{"key": "无敌","name": "1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./无敌.json"},
 
@@ -295,7 +326,7 @@
   ], 
 //直播源添加到最后}括号前面，补全上面的逗号
  "lives":[ 
-    {"name": "huanzi989","type": 0,"url": "https://json.doube.eu.org/live/migu/Sub.php","playerType": 1,"ua": "okhttp/3.15",
+    {"name": "huanzi9989","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","playerType": 1,"ua": "okhttp/3.15",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
 
    
