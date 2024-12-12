@@ -146,6 +146,7 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
+      "jar": "./Cz.jar"
       "ext": ""
     },
     {
