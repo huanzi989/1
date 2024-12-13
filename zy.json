@@ -1,6 +1,6 @@
-//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zy.json
+//国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json
 
-//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zy.json
+//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json
 
 {
    "spider": "./zy.jar",
@@ -28,8 +28,25 @@
 
        
        
-{
+  {
    "key": "金牌影视",
+   "name": "金牌影视(1080P)",
+   "type": 3,
+   "api": "csp_XBPQ", 
+   "searchable": 0,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "./XBPQ/金牌影视.json"
+},     
+
+
+
+
+       
+
+       
+{
+   "key": "酸梅汁",
    "name": "酸梅汁(1080P)",
    "type": 3,
    "searchable": 1,
@@ -57,14 +74,49 @@
  },
        
 
-        
 
+
+      
+
+   {
+      "key": "低端影视",
+      "name": "低端影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/低端影视.js"
+    },
+
+
+
+
+
+       
+       
+
+   {
+     "key":"采集",
+     "name":"heimuer(1080P)",
+     "type":4,
+     "api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true",
+     "playerType": 2,
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+   },
+
+
+
+{ "key": "华为资源",  "name": "hw8资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","playerType": 2,"searchable":1,"quickSearch":1,  "filterable":1},
 
 
 
   {
       "key": "瓜子",
-      "name": "瓜子(1080P)",
+      "name": "瓜子",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -88,44 +140,6 @@
      "playerType": 1,
       "ext": "./lib/爱动漫.js"
     },
-
-       
- 
-
-
-
-      
-
-      
-
-   {
-      "key": "低端影视",
-      "name": "低端影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/低端影视.js"
-    },
-
-
-
-
-       
-
-   //{"key":"采集", "name":"heimuer(1080P)", "type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true", "playerType": 2,"searchable":1, "quickSearch":1,"filterable":1},
-
-
-
-//{ "key": "华为资源",  "name": "hw8资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","playerType": 2,"searchable":1,"quickSearch":1,  "filterable":1},
-
-
-
- 
-
-
 
 
 
@@ -159,6 +173,14 @@
 
 
 
+
+
+
+
+
+
+ 
+
  //{"key": "无敌","name": "1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./无敌.json"},
 
  //{"key":"碟迷(有广)","name":"碟迷(有广)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./XBPQ/碟迷(有广).json"},
@@ -178,10 +200,6 @@
 
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------\\
-
- 
-
-       
 
   {
       "key": "MTV",
@@ -248,6 +266,8 @@
       "filterable": 1,
       "ext": "./B站/酒井法子.json"
     }
+ 
+
 
 
 
@@ -278,9 +298,8 @@
   {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV","木耳","可可"]}}
   ], 
 //直播源添加到最后}括号前面，补全上面的逗号
-
  "lives":[ 
-    {"name": "huanzi989","type": 0,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/gggg.nzk","playerType": 1,"ua": "okhttp/3.15",
+    {"name": "huanzi9989","type": 0,"url": "./gggg.nzk","playerType": 1,"ua": "okhttp/3.15",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
 
    
