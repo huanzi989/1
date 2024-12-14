@@ -23,29 +23,7 @@
     },
 
 
- {
-   "key": "金牌影视",
-   "name": "金牌影视(1080P)",
-   "type": 3,
-   "api": "csp_XBPQ", 
-   "searchable": 0,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "./XBPQ/金牌影视.json"
-},     
-
-
-    {
-      "key": "Cz",
-      "name": "Cz",
-      "type": 3,
-      "api": "csp_NewCz",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "jar": "./Cz.jar"
-    },
+   
 
        
 
@@ -73,7 +51,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "playerType": 1,
+    "playerType": 2,
     "api": "./lib/drpy2.min.js",
     "ext": "./lib/星辰.js" 
  },
@@ -96,39 +74,17 @@
     },
 
 
- {
-      "key": "☄闪雷电",
-      "name": "☄闪雷电",
-      "type": 3,
-      "api": "csp_Slys", 
-      "jar": "./zy9.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
-    },
-
 
 
 
        
        
 
-   {
-     "key":"采集",
-     "name":"heimuer(1080P)",
-     "type":4,
-     "api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true",
-     "playerType": 2,
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
-   },
+   
 
 
 
-//{ "key": "华为资源",  "name": "hw8资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","playerType": 2,"searchable":1,"quickSearch":1,  "filterable":1},
+
 
 
 
@@ -193,31 +149,11 @@
 
 
 
- {
-      "key": "南瓜影视",
-      "name": "南瓜影视(低码率)",
-      "type": 3,
-      "api": "csp_NanGuaQJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "./zy9.jar",
-      "ext": ""
-    },
 
 
 
- {
-   "key": "LIVIO",
-    "name": "LIVIO（不被搜索）",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-   "ext": { "分类url": "https://libvio.fun/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
-           "分类": "电影&剧集&动漫&日韩剧&欧美剧", "分类值": "1&2&4&15&16"}},
+
+ 
 
  //{"key": "无敌","name": "1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./无敌.json"},
 
@@ -332,11 +268,14 @@
   "parses": [
         {"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Web聚合","type":3,"url":"Web"},
-{ "name": "虾米1", "url": "https://jx.xmflv.cc/?url=", "type": 0, "ext": { "flag": [  "qiyi",  "imgo", "搜狐","爱奇艺", "奇艺",   "qq", "qq 预告及花絮","腾讯", "youku",  "优酷", "pptv", "PPTV","letv", "乐视","rx","1905","ltnb","哔哩","哔哩哔哩","bilibili", "leshi", "mgtv", "芒果", "sohu","xigua", "fun","风行","木耳","可可" ] } },
-  {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV","木耳","可可"]}}
+{ "name": "虾米1", "url": "https://jx.xmflv.cc/?url=", "type": 0, "ext": { "flag": [  "qiyi",  "imgo", "搜狐","爱奇艺", "奇艺",   "qq", "qq 预告及花絮","腾讯", "youku",  "优酷", "pptv", "PPTV","letv", "乐视","rx","1905","ltnb","哔哩","哔哩哔哩","bilibili", "leshi", "mgtv", "芒果", "sohu","xigua", "fun","风行","木耳","可可","星辰"] } },
+  {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV","木耳","可可","星辰x"]}}
   ], 
 //直播源添加到最后}括号前面，补全上面的逗号
  "lives":[ 
     {"name": "huanzi9989","type": 0,"url": "./gggg.nzk","playerType": 1,"ua": "okhttp/3.15",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}]
+
+   
+
 }
