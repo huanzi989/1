@@ -39,7 +39,17 @@
    "ext": "./lib/金牌影视.js"
 },
 
-
+{
+   "key": "荐片",
+   "name": "荐片",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 2,
+   "api": "./lib/drpy2.min.js",
+   "ext": "./lib/荐片.js"
+},
        
 
        
