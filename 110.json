@@ -132,17 +132,7 @@
 
 
 
-  {
-      "key": "瓜子",
-      "name": "瓜子(1080P)",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/瓜子.js"
-    },
+ //{"key": "瓜子", "name": "瓜子","type": 3,"searchable": 1,"quickSearch": 1, "changeable": 1,"playerType": 2,"api": "./lib/drpy2.min.js", "ext": "./lib/瓜子.js" },,
 
   {
       "key": "瓜子2",
