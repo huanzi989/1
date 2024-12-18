@@ -132,17 +132,7 @@
     },       
        
 
-   {
-     "key":"采集",
-     "name":"heimuer(1080P)",
-     "type":4,
-     "api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true",
-     "playerType": 2,
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
-   },
-
+  // {"key":"采集","name":"heimuer(1080P)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","playerType": 2, "searchable":1,"quickSearch":1,"filterable":1 },
 
 
 //{ "key": "华为资源",  "name": "hw8资源",  "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","playerType": 2,"searchable":1, "quickSearch":1,"changeable":1},
