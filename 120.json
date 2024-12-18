@@ -7,7 +7,7 @@
 //国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/gggg.nzk
 
 {
-   "spider": "./Cz.jar",
+   "spider": "./zy.jar",
 
 
 
@@ -50,7 +50,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "playerType": 1,
+    "playerType": 2,
     "api": "./lib/drpy2.min.js",
     "ext": "./lib/星辰.js" 
  },
