@@ -81,7 +81,7 @@
     },
 
 
-//{"key": "☄闪雷电","name": "☄闪雷电","type": 3,"api": "csp_Slys", "jar": "./zy9.jar","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
+{"key": "☄闪雷电","name": "☄闪雷电","type": 3,"api": "csp_Slys", "jar": "./zy9.jar","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
 
 
 {"key":"磁力","name":"磁力港","type":3,"api":"./lib/drpy2.min.js","searchable":1, "quickSearch":1,"changeable":1,"playerType": 1,"ext":"./lib/磁力.js"},
@@ -102,7 +102,7 @@
        
        
 
- {"key":"采集","name":"heimuer(1080P)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","playerType": 2, "searchable":1,"quickSearch":1,"filterable":1 },
+ //{"key":"采集","name":"heimuer(1080P)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","playerType": 2, "searchable":1,"quickSearch":1,"filterable":1 },
 
 
 
