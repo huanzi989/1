@@ -39,7 +39,7 @@
        
 
 
-    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
+    //{"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
 
        
 
@@ -61,7 +61,7 @@
 
        
 
-   {  "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
+  // {  "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
        
 
 
@@ -102,7 +102,7 @@
        
        
 
-   //{"key":"采集","name":"heimuer(1080P)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","playerType": 2, "searchable":1,"quickSearch":1,"filterable":1 },
+  {"key":"采集","name":"heimuer(1080P)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","playerType": 2, "searchable":1,"quickSearch":1,"filterable":1 },
 
 
 
@@ -110,7 +110,7 @@
 
 
 
-//{"key": "瓜子", "name": "瓜子","type": 3,"searchable": 1,"quickSearch": 1, "changeable": 1,"playerType": 2,"api": "./lib/drpy2.min.js", "ext": "./lib/瓜子.js" },
+{"key": "瓜子", "name": "瓜子","type": 3,"searchable": 1,"quickSearch": 1, "changeable": 1,"playerType": 2,"api": "./lib/drpy2.min.js", "ext": "./lib/瓜子.js" },
 
   {
       "key": "瓜子2",
