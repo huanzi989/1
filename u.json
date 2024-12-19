@@ -61,7 +61,7 @@
 
        
 
-  {  "key": "星辰","name": "星辰","type": 3,"searchable": 0,"quickSearch": 0,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
+  {  "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
        
 
 
@@ -112,7 +112,7 @@
 
 {"key": "瓜子", "name": "瓜子","type": 3,"searchable": 1,"quickSearch": 1, "changeable": 1,"playerType": 2,"api": "./lib/drpy2.min.js", "ext": "./lib/瓜子.js" },
 
-{"key": "瓜子2","name": "瓜子2(1080P)","type": 3, "searchable": 1, "quickSearch": 1,"changeable": 1,"playerType": 2, "api": "./lib/drpy2.min.js","ext": "./lib/瓜子 (1).js"},
+//{"key": "瓜子2","name": "瓜子2(1080P)","type": 3, "searchable": 1, "quickSearch": 1,"changeable": 1,"playerType": 2, "api": "./lib/drpy2.min.js","ext": "./lib/瓜子 (1).js"},
 
 
  {
