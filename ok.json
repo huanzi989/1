@@ -20,7 +20,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": " ./豆瓣/老人豆瓣.js "
+      "ext": " ./lib/老人豆瓣.js"
     },
 
 
