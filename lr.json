@@ -77,17 +77,7 @@
 //{"key":"磁力","name":"磁力港","type":3,"api":"./lib/drpy2.min.js","searchable":1, "quickSearch":1,"changeable":1,"playerType": 1,"ext":"./lib/磁力.js"},
 
 
-{
-      "key": "荐",
-      "name": "荐片磁力",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/荐片.js"
-    },
+//{"key": "荐","name": "荐片磁力","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js", "ext": "./lib/荐片.js"},
 
        
        
