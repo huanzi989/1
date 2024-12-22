@@ -3,8 +3,8 @@
 //国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json
 
 {
-   "warningText":"使用影视仓V5.0.46版本",
-   "spider": "./zy.jar",
+   "warningText":"建议使用宝盒TV",
+   "spider": "./bhtv.jar",
 
 
 
