@@ -16,35 +16,16 @@
  	{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】长辈专用全网聚合源", "type": 3,"api": "csp_Douban","jar": "./o2.jar","searchable": 0}, 
 
  // {"key": "老人豆瓣","name": "老人豆瓣","type": 3, "api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/老人豆瓣.js "},
-
-
-       
-
+     
 
     //{"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
 
-       
-
-       
-{
-   "key": "酸梅汁",
-   "name": "酸梅汁(1080P)",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 2,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./lib/金牌影视.js"
-},
-
-
-       
-
-       
-
-  //{  "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
-       
+             
+{ "key": "星辰","name":"星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
+     
+ {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
+     
+            
 
       
 
