@@ -2,7 +2,7 @@
 
 //此源收集于互联网网络，仅供学习使用，如有侵权请告知删除。
 
-//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/zy.json
+//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json
 
 {
    "warningText":"建议使用宝盒TV",
@@ -13,18 +13,9 @@
 
     "sites": [
 
-  {
-      "key": "年轻人豆瓣",
-      "name": "年轻人豆瓣",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": " ./豆瓣/年轻人豆瓣.js "
-    },
-     
+ 	{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】长辈专用全网聚合源", "type": 3,"api": "csp_Douban","jar": "./o2.jar","searchable": 0}, 
+
+ // {"key": "老人豆瓣","name": "老人豆瓣","type": 3, "api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/老人豆瓣.js "},
 
 
        
@@ -34,17 +25,28 @@
 
        
 
-    
+       
+{
+   "key": "酸梅汁",
+   "name": "酸梅汁(1080P)",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 2,
+   "api": "./lib/drpy2.min.js",
+   "ext": "./lib/金牌影视.js"
+},
+
+
+       
 
        
 
   //{  "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
        
 
-
-
-
- 
+      
 
 
 // {"key": "☄闪雷电","name": "☄闪雷电","type": 3,"api": "csp_Slys", "jar": "./zy9.jar","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
@@ -53,7 +55,7 @@
 //{"key":"磁力","name":"磁力港","type":3,"api":"./lib/drpy2.min.js","searchable":1, "quickSearch":1,"changeable":1,"playerType": 1,"ext":"./lib/磁力.js"},
 
 
-//{"key": "荐","name": "荐片磁力","type": 3,"searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "1", "api": "./lib/drpy2.min.js", "ext": "./lib/荐片.js" },
+//{"key": "荐","name": "荐片磁力","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js", "ext": "./lib/荐片.js"},
 
        
        
@@ -71,18 +73,6 @@
 //{"key": "瓜子2","name": "瓜子2(1080P)","type": 3, "searchable": 1, "quickSearch": 1,"changeable": 1,"playerType": 2, "api": "./lib/drpy2.min.js","ext": "./lib/瓜子 (1).js"},
 
 
- {
-      "key": "爱动漫(动漫)",
-      "name": "爱动漫(1080P)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-     "playerType": 1,
-      "ext": "./lib/爱动漫.js"
-    },
-
 
 
 
@@ -92,6 +82,7 @@
 
 
  // {"key":"克隆", "name":"克隆(采集资源)","type":4,"api":"https://api.paoyun.eu.org/klhj.php","searchable":1,"quickSearch":1,"filterable":1}, 
+
 
 
 
@@ -202,8 +193,8 @@
       "ext": "./B站/酒井法子.json"
     },
  
-//--------------------------------------------------------------------------------------------------
 
+//-------------------------------------------------------------------------------
 
 
 
@@ -268,8 +259,6 @@
 {"key":"csp_视觉","name":"🔭视觉┃PYTHON2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://drive.almondcloud.cn/f/q3JKT9/shijue.py","playerType":2,"filterable":1}
 
 //-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
-
-
 
 
 
