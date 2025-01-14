@@ -24,32 +24,17 @@
     //{"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
 
        
-
-       
-{
-   "key": "酸梅汁",
-   "name": "酸梅汁(1080P)",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "playerType": 2,
-   "api": "./lib/drpy2.min.js",
-   "ext": "./lib/金牌影视.js"
-},
-
-
        
 
        
 
-  //{  "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
+  {  "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
        
 
-      
+{"key": "hipy_js_瓜子视频",	"name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},    
 
 
-// {"key": "☄闪雷电","name": "☄闪雷电","type": 3,"api": "csp_Slys", "jar": "./zy9.jar","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
+//{"key": "☄闪雷电","name": "☄闪雷电","type": 3,"api": "csp_Slys", "jar": "./zy9.jar","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
 
 
 //{"key":"磁力","name":"磁力港","type":3,"api":"./lib/drpy2.min.js","searchable":1, "quickSearch":1,"changeable":1,"playerType": 1,"ext":"./lib/磁力.js"},
@@ -198,7 +183,7 @@
 
 
 
-  {"key": "hipy_js_金牌影院","name": "金牌┃影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
+  //{"key": "hipy_js_金牌影院","name": "金牌┃影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
 		
 		
   //{"key":"采集","name":"heimuer(1080P)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","searchable":1,"quickSearch":1,"filterable":1 },
@@ -212,7 +197,7 @@
 	
   {"key":"天天","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 
-  {"key":"低端影视","name":"低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+  //{"key":"低端影视","name":"低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 
 
  
@@ -225,12 +210,12 @@
 {"key":"木星","name":"🌞木星┃多线","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
 
 
-{"key":"原创1","name":"☀原创┃不卡1","type":3,"api":"csp_YCyz","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"原创1","name":"☀原创┃不卡1","type":3,"api":"csp_YCyz","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"厂长1","name":"📔厂长┃不卡1","type":3,"api":"csp_NewCz","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
+//{"key":"厂长1","name":"📔厂长┃不卡1","type":3,"api":"csp_NewCz","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
 
 
-{"key":"Auete1","name":"🏝奥特┃无广1","type":3,"api":"csp_Auete","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
+//{"key":"Auete1","name":"🏝奥特┃无广1","type":3,"api":"csp_Auete","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
 
 //-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
 
@@ -239,12 +224,12 @@
 
 //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar
 
-{"key":"csp_JPYY2","name":"🚗文采┃1080P2","type":3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","searchable":1,"changeable":1,"api":"csp_Jpyy","playerType":2,"filterable":1,"ext":""},
+//{"key":"csp_JPYY2","name":"🚗文采┃1080P2","type":3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","searchable":1,"changeable":1,"api":"csp_Jpyy","playerType":2,"filterable":1,"ext":""},
 
 
-{"key":"csp_Wwys","name":"👨农民┃1080P2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/"},
+//{"key":"csp_Wwys","name":"👨农民┃1080P2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/"},
 
-{"key":"csp_XSX","name":"👀视讯┃1080P2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"csp_Xsx","playerType":2,"filterable":1,"ext":""},
+//{"key":"csp_XSX","name":"👀视讯┃1080P2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"csp_Xsx","playerType":2,"filterable":1,"ext":""},
 
 {"key":"huohuo","name":"💥火火┃1080P2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"changeable":0,"api":"csp_SaoHuo"},
 
@@ -256,7 +241,7 @@
 
 {"key":"csp_LiteApple","name":"🍎苹果┃1080P2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":1,"filterable":1,"ext":""},
 
-{"key":"csp_视觉","name":"🔭视觉┃PYTHON2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://drive.almondcloud.cn/f/q3JKT9/shijue.py","playerType":2,"filterable":1}
+//{"key":"csp_视觉","name":"🔭视觉┃PYTHON2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://drive.almondcloud.cn/f/q3JKT9/shijue.py","playerType":2,"filterable":1}
 
 //-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
 
