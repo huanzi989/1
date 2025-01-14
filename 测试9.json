@@ -25,7 +25,12 @@
      
 {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
      
-            
+    {"key":"天天","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},          
+
+	
+   {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,
+     "quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./lib/爱动漫.js"},
+	
 
       
 
@@ -55,7 +60,11 @@
 
 
 
-
+  //{"key":"采集","name":"heimuer(1080P)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","searchable":1,"quickSearch":1,"filterable":1 },
+    
+    //{"key": "荐","name": "荐片", "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1", "api": "./drpy_libs/drpy2.min.js","ext": "./lib/荐片.js"},
+    
+   // {"key": "hipy_js_TVB云播","name": "TVB云播┃蓝光", "type": 3, "api": "./lib/drpy2.min.js","searchable": 1, "quickSearch": 1,  "filterable": 1, "order_num": 0,"ext": "./lib/TVB云播.js" },
 
 
 
@@ -178,20 +187,9 @@
 //-------------------------------------------------------------------------------
 
 
+	
+		
 
-  {"key": "hipy_js_金牌影院","name": "金牌┃影院","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"api": "./lib/drpy2.min.js","ext": "./lib/金牌影视.js"},
-		
-		
-  //{"key":"采集","name":"heimuer(1080P)","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer&filter=true","searchable":1,"quickSearch":1,"filterable":1 },
-    
-    //{"key": "荐","name": "荐片", "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1", "api": "./drpy_libs/drpy2.min.js","ext": "./lib/荐片.js"},
-    
-   // {"key": "hipy_js_TVB云播","name": "TVB云播┃蓝光", "type": 3, "api": "./lib/drpy2.min.js","searchable": 1, "quickSearch": 1,  "filterable": 1, "order_num": 0,"ext": "./lib/TVB云播.js" },
-	
-   {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,
-     "quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./lib/爱动漫.js"},
-	
-  {"key":"天天","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
