@@ -1,11 +1,12 @@
 {
-  "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
+  //"spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
+    "spider": "./zy.jar",
   "warningText":"选择一部电影海报后，长按确定，可选片源",
   "sites": [
     //{ "key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】","type": 3, "api": "csp_Douban","searchable": 0 },
    
   
-    {"key": "老人豆瓣","name": "老人豆瓣","type": 3, "api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/老人豆瓣.js "},
+    {"key": "老人豆瓣","name": "🌈公众号【宝盒视界】老人豆瓣","type": 3, "api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/老人豆瓣.js "},
      
 
    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
