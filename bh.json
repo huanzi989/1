@@ -13,7 +13,7 @@
 
     "sites": [
 
- 	{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】长辈专用全网聚合源", "type": 3,"api": "csp_Douban","jar": "./o2.jar","searchable": 0}, 
+ 	{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】长辈专用全网聚合源"🔜点击电视剧", "type": 3,"api": "csp_Douban","jar": "./o2.jar","searchable": 0}, 
 
  //{"key": "宝盒豆瓣.js","name": "🔜点击电视剧","type": 3, "api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/宝盒豆瓣.js "},
      
