@@ -20,7 +20,7 @@ var rule = {
             "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat"
     },
     timeout:5000,  //我的豆瓣&热门电影&热播剧集&热播综艺&电影筛选&电视筛选&电影榜单&电视榜单', 'interests&hot_gaia&tv_hot&show_hot&movie&tv&rank_list_movie&rank_list_tv',
-    class_name:'电视剧（注意光标位置，按一下选择后会变色，并且熟悉遥控器OK键和◀返回键操作）&电影（建议老年人别点这里点击前面的电视剧就行）&',
+    class_name:'电视剧（注意光标位置，按一下选择后会变色，并且熟悉遥控器OK键和◀返回键操作）&电影（建议老年人别点这里点击前面的电视剧就行）',
     class_url:'tv&movie',
     filter:{
        
