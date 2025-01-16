@@ -2,7 +2,7 @@
   "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
   "warningText":"选择一部电影海报后，长按确定，可选片源",
   "sites": [
-    { "key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】","type": 3, "api": "csp_Douban","searchable": 0 },
+    //{ "key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】","type": 3, "api": "csp_Douban","searchable": 0 },
    
   
     {"key": "老人豆瓣","name": "老人豆瓣","type": 3, "api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/老人豆瓣.js "},
@@ -121,7 +121,7 @@
       "key": "hipy_js_金牌影院",
       "name": "金牌┃影院",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/branch/master/drpy_libs/drpy2.min.js",
+      "api": "./drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -135,7 +135,7 @@
       "key": "hipy_js_瓜子视频",
       "name": "瓜子┃视频",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/branch/master/drpy_libs/drpy2.min.js",
+      "api": "./drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
