@@ -1,16 +1,12 @@
 {
   "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
+  "warningText":"选择一部电影海报后，长按确定，可选片源",
+  "spider": "./bh.jar",
   "sites": [
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "🌈公众号【宝盒视界】",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
+   // { "key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】","type": 3, "api": "csp_Douban","searchable": 0 },
    
   
-// {"key": "老人豆瓣","name": "老人豆瓣","type": 3, "api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/老人豆瓣.js "},
+     {"key": "老人豆瓣","name": "老人豆瓣","type": 3, "api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/老人豆瓣.js "},
      
 
    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
@@ -24,6 +20,73 @@
 	
    {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,
      "quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./lib/爱动漫.js"},
+
+
+ {
+      "key": "MTV",
+      "name": "MTV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./B站/MTV.json"
+    },
+
+
+  
+  
+  {
+      "key": "演唱会",
+      "name": "演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./B站/music.json"
+    },
+
+
+
+
+      {
+      "key": "少儿合集",
+      "name": "少儿合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./B站/少儿合集.json"
+    },
+
+
+
+   
+      {
+      "key": "学堂教育",
+      "name": "学堂教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./B站/学堂教育.json"
+    },
+ 
+
+
+      {
+      "key": "骁龙870电视盒子",
+      "name": "骁龙870电视盒子",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./B站/酒井法子.json"
+    },
 
    
     
@@ -578,17 +641,7 @@
    
    
    
-    {
-      "key": "演唱会",
-      "name": "演唱会┃哔哩",
-      "type": 3,
-      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 142,
-      "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/演唱会.json"
-    },
+
     {
       "key": "戏曲",
       "name": "戏曲┃合集",
