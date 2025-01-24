@@ -19,7 +19,6 @@
 	    
  //{"key": "年轻人豆瓣","name": "🌈公众号【宝盒视界】年轻人专用全网聚合源","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1, "playerType": 2,"ext": " ./豆瓣/年轻人豆瓣.js "},
             
- 
    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
 
              
@@ -40,6 +39,22 @@
     { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./bh.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
 	
  {"key": "星芽", "name": "短┃剧","type": 3,"api": "csp_AppXY","jar": "./bh.jar","searchable": 1,"quickSearch": 0,"filterable": 0},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    
       
 
 
