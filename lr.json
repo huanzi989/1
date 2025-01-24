@@ -34,7 +34,7 @@
 	
     
 
-  {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
+  {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"ext": {"danmu": true }},
 
 	    
     { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./bh.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
