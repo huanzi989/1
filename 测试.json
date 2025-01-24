@@ -4,8 +4,10 @@
 
 //国内访问加速https://gh-proxy.com/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json
 
+//国内访问加速https://github.moeyy.xyz/https://raw.githubusercontent.com/huanzi989/1/refs/heads/main/lr.json
+
 {
-   "warningText":"建议使用宝盒TV",
+   "warningText":"选择一部电影海报后，长按确定，可选片源",
    "spider": "./zy.jar",
 
 
@@ -13,9 +15,9 @@
 
     "sites": [
 
- 	{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】长辈专用全网聚合源", "type": 3,"api": "csp_Douban","jar": "./o2.jar","searchable": 0}, 
+ 	{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】🔜点击电视剧", "type": 3,"api": "csp_Douban","jar": "./o2.jar","searchable": 0}, 
 
- // {"key": "老人豆瓣","name": "老人豆瓣","type": 3, "api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/老人豆瓣.js "},
+ //{"key": "老人豆瓣","name": "🌈公众号【宝盒视界】长辈专用全网聚合源","type": 3, "api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/宝盒豆瓣.js "},
      
 
    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
@@ -25,12 +27,13 @@
      
 {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
      
-    //{"key":"天天","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},          
+   // {"key":"天天","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},          
 
 	
    {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,
      "quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./lib/爱动漫.js"},
-
+	
+    
 
   {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
 
@@ -38,6 +41,26 @@
     { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./bh.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
 	
  {"key": "星芽", "name": "短┃剧","type": 3,"api": "csp_AppXY","jar": "./bh.jar","searchable": 1,"quickSearch": 0,"filterable": 0},
+
+
+ {"key": "AI2", "name": "AI2┃仅搜索","type": 3,"api": "csp_AI","jar": "./A12.jar","searchable": 1, "quickSearch": 1,"filterable": 0,"playerType": 2,"ext": "faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk="},
+   
+	    
+ {"key": "AI3","name": "AI3┃仅搜索","type": 3,"api": "csp_AI","jar": "./A12.jar","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType": 2,"ext": "haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ=="},
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    
       
 
 
