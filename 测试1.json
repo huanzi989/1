@@ -37,7 +37,7 @@
 	    
     { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./bh.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
 	
-
+ {"key": "星芽短剧", "name": "短剧","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 1,"filterable": 1},
       
 
 
