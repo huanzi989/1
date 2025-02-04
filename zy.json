@@ -105,7 +105,7 @@
  {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1},
 
 
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 
 
