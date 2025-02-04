@@ -61,10 +61,10 @@
      {"key": "天天弹幕","name": "天天｜弹幕","type": 3,"api": "csp_TianTian","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": "aHR0cDovL29wLnlzZHFqcy5jbg=="}},
      
      
-      {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"playerType": "2","quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
+      {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
 
 	    
-    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","playerType": "1","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
+    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
 	
 	
 	
@@ -102,7 +102,7 @@
   {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
- {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1},
+ {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType":2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 
 
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -132,7 +132,7 @@
 
 
 
-{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","type":3,"playerType": "2","searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":1,"filterable":1,"ext":""},
+{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","type":3,"playerType": 2,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":1,"filterable":1,"ext":""},
 
 
 
