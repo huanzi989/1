@@ -22,7 +22,7 @@
    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
              	    
 
- {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
+  {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
  
 
        
@@ -35,20 +35,26 @@
  
  
  
-  {"key": "MTV","name": "MTV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar","ext": "./B站/MTV.json"},
  
-  {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar","ext": "./B站/music.json"},
+ 
+ 
+  {"key": "MTV","name": "MTV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar","ext": "./lib/MTV.json"},
+ 
+  {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar","ext": "./lib/music.json"},
   
-   {"key": "骁龙870电视盒子","name": "骁龙870电视盒子","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar","ext": "./B站/酒井法子.json" },	
-
-  { "key": "少儿合集","name": "少儿合集","type": 3, "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/少儿合集.json"},
-
- {"key": "学堂教育","name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/学堂教育.json"},    
+   {"key": "骁龙870电视盒子","name": "骁龙870电视盒子","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar",
+      "ext": "./lib/酒井法子.json" },	
       
    { "key": "一曲肝肠断", "name": "戏曲┃点播", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/xq.js", "style": { "type": "rect", "ratio": 1.597 } },   														
-
+	   {"key": "学堂","name": "学堂┃教育","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/学堂教育.json"}, 
+        
+	{"key": "少儿","name": "少儿┃合集","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/少儿合集.json"},
+ 
  
 //--------------------------------------------阿里阿多----------------------------------------阿里阿多-----------------------------------------阿里阿多-----------------------------------------------
+
+
+
 
 
 
@@ -99,17 +105,17 @@
 
    //https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt
    
-  {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+  {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
- {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType":2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+ {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 
 
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 
 
 
-//{"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
+// {"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
 
 //-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------------
 
@@ -132,7 +138,7 @@
 
 
 
-{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","type":3,"playerType": 2,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":1,"filterable":1,"ext":""},
+{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":1,"filterable":1,"ext":""},
 
 
 
@@ -142,6 +148,15 @@
  
 
 
+
+
+
+
+
+
+
+
+//-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
 
 
 
