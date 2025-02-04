@@ -26,7 +26,7 @@
  
 
        
-    {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./lib/爱动漫.js"},
+    {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType": 2, "ext": "./lib/爱动漫.js"},
                            
               
  { "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
