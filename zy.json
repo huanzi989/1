@@ -20,43 +20,141 @@
  //{"key": "年轻人豆瓣","name": "🌈公众号【宝盒视界】年轻人专用全网聚合源","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1, "playerType": 2,"ext": " ./豆瓣/年轻人豆瓣.js "},
             
    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
+             	    
 
-             
-//{ "key": "星辰","name":"星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
-     
-{"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
-     
-   // {"key":"天天","name":"天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},          
+ {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
+ 
 
-	
-   {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./lib/爱动漫2.js"},
-	
-    
+       
+    {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./lib/爱动漫.js"},
+                           
+              
+ { "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
+ 
+ 
+ 
+ 
+ 
+  {"key": "MTV","name": "MTV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar","ext": "./B站/MTV.json"},
+ 
+  {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar","ext": "./B站/music.json"},
+  
+   {"key": "骁龙870电视盒子","name": "骁龙870电视盒子","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./zy.jar","ext": "./B站/酒井法子.json" },	
 
-  {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
+  { "key": "少儿合集","name": "少儿合集","type": 3, "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/少儿合集.json"},
 
-	    
-    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./bh.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
-	
- {"key": "星芽", "name": "短┃剧","type": 3,"api": "csp_AppXY","jar": "./bh.jar","searchable": 1,"quickSearch": 0,"filterable": 0},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	    
+ {"key": "学堂教育","name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/学堂教育.json"},    
       
+   { "key": "一曲肝肠断", "name": "戏曲┃点播", "type": 3, "api": "./lib/drpy2.min.js", "ext": "./lib/xq.js", "style": { "type": "rect", "ratio": 1.597 } },   														
 
+ 
+//--------------------------------------------阿里阿多----------------------------------------阿里阿多-----------------------------------------阿里阿多-----------------------------------------------
+
+
+
+
+
+            //宝盒接口：http://ygbh.site/box.php
+  
+           //https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar
+ 
+     {"key": "天天弹幕","name": "天天｜弹幕","type": 3,"api": "csp_TianTian","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": "aHR0cDovL29wLnlzZHFqcy5jbg=="}},
+     
+     
+      {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"playerType": "2","quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
+
+	    
+    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","playerType": "1","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
+	
+	
+	
+ {"key": "星芽", "name": "短┃剧","type": 3,"api": "csp_AppXY","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"quickSearch": 0,"filterable": 0},  
+       
+     
+     
+     
+ 
+ 
+ 
+ //--------------------------------------------阿里阿多----------------------------------------阿里阿多-----------------------------------------阿里阿多-----------------------------------------------
+	
+
+	
+		
+		
+ //{"key": "荐","name": "荐片", "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1", "api": "./drpy_libs/drpy2.min.js","ext": "./lib/荐片.js"},
+    
+   // {"key": "hipy_js_TVB云播","name": "TVB云播┃蓝光", "type": 3, "api": "./lib/drpy2.min.js","searchable": 1, "quickSearch": 1,  "filterable": 1, "order_num": 0,"ext": "./lib/TVB云播.js" },	
+
+  //{"key":"低端影视","name":"低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+  
+  
+  
+  
+
+//---------------------------------------阿里阿多------------------------------------阿里阿多---------------------------阿里阿多-----------------------------阿里阿多--------------------------------------------
+
+
+//  饭太硬接口：http://www.饭太硬.com/tv/
+
+   //https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt
+   
+  {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
+ {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1},
+
+
+{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+
+
+
+{"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
+
+//-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------------
+
+
+
+
+//小米接口：https://mpanso.me/DEMO.json
+
+//https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar
+
+
+
+{"key":"csp_Wwys","name":"👨农民┃720P","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/"},
+
+
+
+{"key":"瓜子","name":"🍉瓜子┃1080P","type":3,"api":"csp_Gz360","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
+
+//{"key":"csp_南瓜","name":"🎃南瓜┃1080P2","type":3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","api":"csp_MiTuApp","ext":"ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"},
+
+
+
+{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","type":3,"playerType": "1","searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":1,"filterable":1,"ext":""},
+
+
+
+//-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+//-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
+
+
+	    
+             
 
 //{"key": "☄闪雷电","name": "☄闪雷电","type": 3,"api": "csp_Slys", "jar": "./zy9.jar","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
 
@@ -140,123 +238,31 @@
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------\\
 
-  {
-      "key": "MTV",
-      "name": "MTV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./B站/MTV.json"
-    },
+ // {"key": "MTV","name": "MTV","type": 3,"api": "csp_Bili","searchable": 0, "quickSearch": 0,"filterable": 1,"ext": "./B站/MTV.json"},
 
 
   
   
-  {
-      "key": "演唱会",
-      "name": "演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./B站/music.json"
-    },
+ // {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1, "ext": "./B站/music.json"},
 
 
 
 
-      {
-      "key": "少儿合集",
-      "name": "少儿合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./B站/少儿合集.json"
-    },
+   //  { "key": "少儿合集","name": "少儿合集","type": 3, "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/少儿合集.json"},
 
 
 
    
-      {
-      "key": "学堂教育",
-      "name": "学堂教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./B站/学堂教育.json"
-    },
+     // {"key": "学堂教育","name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/学堂教育.json"},
  
 
 
-      {
-      "key": "骁龙870电视盒子",
-      "name": "骁龙870电视盒子",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./B站/酒井法子.json"
-    },
+      //{"key": "骁龙870电视盒子","name": "骁龙870电视盒子","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/酒井法子.json"},
  
-
-//-------------------------------------------------------------------------------
-
-
-	
-		
-
-
-
-
-
- 
-
-//  饭太硬接口：http://www.饭太硬.com/tv/
-
-   //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",
-   
-   
-//{"key":"木星","name":"🌞木星┃多线","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
-
-
-//{"key":"原创1","name":"☀原创┃不卡1","type":3,"api":"csp_YCyz","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-
 
 
 
 //-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
-
-
-//小米接口：https://mpanso.me/DEMO.json
-
-//"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar
-
-
-
-{"key":"csp_Wwys","name":"👨农民┃1080P2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/"}
-
-
-//{"key":"瓜子","name":"🍉瓜子┃1080P2","type":3,"api":"csp_Gz360","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
-
-//{"key":"csp_南瓜","name":"🎃南瓜┃1080P2","type":3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","api":"csp_MiTuApp","ext":"ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"},
-
-//{"key":"csp_MiTuApp","name":"🐰米兔┃1080P","type":3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","api":"csp_MiTuApp","ext":"ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="},
-
-//{"key":"csp_LiteApple","name":"🍎苹果┃1080P2","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":1,"filterable":1,"ext":""}
-
-
-
-//-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
-
-
 
 
 
