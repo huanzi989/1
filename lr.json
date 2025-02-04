@@ -18,11 +18,12 @@
  	{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】🔜点击电视剧", "type": 3,"api": "csp_Douban","jar": "./o2.jar","searchable": 0}, 
 
  //{"key": "老人豆瓣","name": "🌈公众号【宝盒视界】长辈专用全网聚合源","type": 3, "api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./豆瓣/宝盒豆瓣.js "},
-     
+ 
 
    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
-	    
- {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
+             	    
+
+  {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
  
 
        
@@ -159,23 +160,6 @@
 //-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
 
 
- 
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -250,13 +234,56 @@
 
 
 
- 
+ //{"key": "无敌","name": "1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./无敌.json"},
+
+ //{"key":"碟迷(有广)","name":"碟迷(有广)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./XBPQ/碟迷(有广).json"},
+
+ //{"key":"kimivod(黑木耳资源)","name":"kimivod","type":3,"api":"csp_XBPQ","searchable":1, "quickSearch":1, "filterable":1,"ext": "./XBPQ/kimivod.json"},
+
+ //{ "key":"85k影视(720P)","name":"85k影视(720P)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./XBPQ/85k影视(720P).json"},
+
+  //{"key":"8号影视(有广)","name":"8号影视(有广)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": "./XBPQ/8号影视(有广).json"},
+
+ //{"key": "JP","name": "酸梅汁2","type": 3,"api": "csp_WebJP","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="},
+
+ //{"key": "AppGZ","name": "瓜子2","type": 3,"api": "csp_AppGZ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
+
+ // {"key":"喵物次元(动漫)", "name":"喵物次元(1080P)","type":3, "api":"csp_XBPQ","searchable":1,"quickSearch":1, "filterable":1,"ext": "./XBPQ/喵物次元(动漫).json"},
+
+
+
+//-----------------------------------------------------------------------------------------------------------------------------------------------\\
+
+ // {"key": "MTV","name": "MTV","type": 3,"api": "csp_Bili","searchable": 0, "quickSearch": 0,"filterable": 1,"ext": "./B站/MTV.json"},
+
+
   
   
+ // {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1, "ext": "./B站/music.json"},
+
+
+
+
+   //  { "key": "少儿合集","name": "少儿合集","type": 3, "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/少儿合集.json"},
+
+
+
+   
+     // {"key": "学堂教育","name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/学堂教育.json"},
  
 
 
-      
+      //{"key": "骁龙870电视盒子","name": "骁龙870电视盒子","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./B站/酒井法子.json"},
+ 
+
+
+
+//-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------
+
+
+
+
+
 
 
 
@@ -283,4 +310,41 @@
 
    
 
-}
+	    }    
+
+   	
+	
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+  
+ 
+
+
+      
+
+
+
+
+
+
+
+ 
+
