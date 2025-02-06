@@ -23,7 +23,7 @@
    {"key": "Cz","name": "Cz","type": 3,"api": "csp_NewCz","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"jar": "./Cz.jar" },
 
              
-//{ "key": "星辰","name":"星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
+{ "key": "星辰","name":"星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
      
 {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./drpy_libs/drpy2.min.js","ext": "./lib/瓜子.js"},
      
@@ -47,9 +47,11 @@
 
 
 
+{ "key": "厂长资源","name":"厂长资源","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/厂长资源.js" },
 
+{ "key": "闪雷电(略卡)","name":"闪雷电(略卡)","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/闪雷电(略卡).js" },
 
-
+	    
 
 
 
