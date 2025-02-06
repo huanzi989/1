@@ -47,10 +47,16 @@
 
 
 
-{ "key": "厂长资源","name":"厂长资源","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/厂长资源.js" },
-
-{ "key": "闪雷电(略卡)","name":"闪雷电(略卡)","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"api": "./lib/drpy2.min.js","ext": "./lib/闪雷电(略卡).js" },
-
+ {
+      "key": "厂长资源",
+      "name": "厂长｜资源",
+      "type": 3,
+      "api": "csp_Czzy",
+      "jar": "https://gh.llkk.cc/https://github.com/murong507/PizazzGY/raw/refs/heads/main/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	    
 
 
