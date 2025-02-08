@@ -60,15 +60,15 @@
 
             //宝盒接口：http://ygbh.site/box.php
   
-           //https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar
+           //https://gh.llkk.cc/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar
  
      {"key": "天天弹幕","name": "天天｜弹幕","type": 3,"api": "csp_TianTian","jar": "./jar/bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": "aHR0cDovL29wLnlzZHFqcy5jbg=="}},
      
      
-      {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./jar/bh.jar","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
+      //{"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./jar/bh.jar","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
 
 	    
-    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
+    //{ "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
 	
 	
 	
@@ -101,7 +101,7 @@
 
 //  饭太硬接口：http://www.饭太硬.com/tv/
 
-   //https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt
+   //https://gh.llkk.cc/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt
    
   {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "./jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -125,7 +125,7 @@
 
 //小米接口：https://mpanso.me/DEMO.json
 
-//https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar
+//https://gh.llkk.cc/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar
 
 
 
@@ -133,13 +133,13 @@
 
 
 
-{"key":"瓜子","name":"🍉瓜子┃1080P","type":3,"api":"csp_Gz360","jar": "./jar/xiaomi.jar","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
+//{"key":"瓜子","name":"🍉瓜子┃1080P","type":3,"api":"csp_Gz360","jar": "./jar/xiaomi.jar","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
 
 //{"key":"csp_南瓜","name":"🎃南瓜┃1080P2","type":3,"jar": "./jar/xiaomi.jar","api":"csp_MiTuApp","ext":"ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"},
 
 
 
-{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "./jar/xiaomi.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":2,"filterable":1,"ext":""}
+//{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "./jar/xiaomi.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":2,"filterable":1,"ext":""}
 
 
 
