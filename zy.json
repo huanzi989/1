@@ -62,17 +62,17 @@
   
            //https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar
  
-     {"key": "天天弹幕","name": "天天｜弹幕","type": 3,"api": "csp_TianTian","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": "aHR0cDovL29wLnlzZHFqcy5jbg=="}},
+     {"key": "天天弹幕","name": "天天｜弹幕","type": 3,"api": "csp_TianTian","jar": "./jar/bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": "aHR0cDovL29wLnlzZHFqcy5jbg=="}},
      
      
-      {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
+      {"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./jar/bh.jar","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
 
 	    
-    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
+    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
 	
 	
 	
- //{"key": "星芽", "name": "短┃剧","type": 3,"api": "csp_AppXY","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar","searchable": 1,"quickSearch": 0,"filterable": 0},  
+ //{"key": "星芽", "name": "短┃剧","type": 3,"api": "csp_AppXY","jar": "./jar/bh.jar","searchable": 1,"quickSearch": 0,"filterable": 0},  
        
      
      
@@ -103,20 +103,20 @@
 
    //https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt
    
-  {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+  {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "./jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
- {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+ {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","jar": "./jar/fan.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 
 
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","jar": "./jar/fan.txt","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 
-  {"key": "抠搜","name": "🍄网盘扫码┃4K","type": 3,"api": "csp_KkSs","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
+  {"key": "抠搜","name": "🍄网盘扫码┃4K","type": 3,"api": "csp_KkSs","jar": "./jar/fan.txt","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
 
 
 
-// {"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
+// {"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","jar": "./jar/fan.txt","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
 
 //-----------------------------------------阿里阿多-----------------------------------------------------阿里阿多-------------------------------------------------------------------
 
@@ -129,17 +129,17 @@
 
 
 
-{"key":"csp_Wwys","name":"👨农民┃720P","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/"},
+{"key":"csp_Wwys","name":"👨农民┃720P","jar": "./jar/xiaomi.jar","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/"},
 
 
 
-{"key":"瓜子","name":"🍉瓜子┃1080P","type":3,"api":"csp_Gz360","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
+{"key":"瓜子","name":"🍉瓜子┃1080P","type":3,"api":"csp_Gz360","jar": "./jar/xiaomi.jar","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
 
-//{"key":"csp_南瓜","name":"🎃南瓜┃1080P2","type":3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar","api":"csp_MiTuApp","ext":"ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"},
+//{"key":"csp_南瓜","name":"🎃南瓜┃1080P2","type":3,"jar": "./jar/xiaomi.jar","api":"csp_MiTuApp","ext":"ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"},
 
 
 
-{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "https://gh-proxy.com/https://github.com/huanzi989/1/raw/refs/heads/main/jar/xiaomi.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":2,"filterable":1,"ext":""}
+{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "./jar/xiaomi.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":2,"filterable":1,"ext":""}
 
 
 
