@@ -30,7 +30,7 @@
     {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType": 2, "ext": "./lib/爱动漫.js"},
                            
               
- { "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
+// { "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
  
  
  
@@ -106,7 +106,7 @@
 
    //https://gh.llkk.cc/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt
    
-  //{"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "./jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+  {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "./jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
  //{"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","jar": "./jar/fan.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
