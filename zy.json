@@ -69,7 +69,7 @@
       //{"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./jar/bh.jar","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
 
 	    
-    //{ "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
+    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
 	
 	
 	
@@ -104,7 +104,7 @@
 
    //https://gh.llkk.cc/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt
    
-  {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "./jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+ // {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "./jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
  //{"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","jar": "./jar/fan.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
