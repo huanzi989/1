@@ -106,7 +106,7 @@
 
    //https://gh.llkk.cc/https://github.com/huanzi989/1/raw/refs/heads/main/jar/fan.txt
    
-  {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "./jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+  //{"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","jar": "./jar/fan.txt","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
  //{"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","jar": "./jar/fan.txt","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -131,7 +131,7 @@
 
 
 
-{"key":"csp_Wwys","name":"👨农民┃720P","jar": "./jar/xiaomi.jar","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/"},
+{"key":"csp_Wwys","name":"👨农民┃720P","jar": "./jar/xiaomi.jar","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/"}
 
 
 
@@ -141,7 +141,7 @@
 
 
 
-{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "./jar/xiaomi.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":2,"filterable":1,"ext":""}
+//{"key":"csp_LiteApple","name":"🍎苹果┃1080P","jar": "./jar/xiaomi.jar","type":3,"searchable":1,"changeable":1,"api":"csp_LiteApple","playerType":2,"filterable":1,"ext":""}
 
 
 
