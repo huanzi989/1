@@ -31,7 +31,8 @@
 // { "key": "星辰","name": "星辰","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "./lib/drpy2.min.js","ext": "./lib/星辰.js" },
  
  
- 
+ { "key": "华为资源",  "name": "hw8资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","playerType": 2,"searchable":1,"quickSearch":1,  "filterable":1},
+
  
  
  
@@ -63,13 +64,13 @@
   
            //https://gh.llkk.cc/https://github.com/huanzi989/1/raw/refs/heads/main/jar/bh.jar
  
-     {"key": "天天弹幕","name": "天天｜弹幕","type": 3,"api": "csp_TianTian","jar": "./jar/bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": "aHR0cDovL29wLnlzZHFqcy5jbg=="}},
+     //{"key": "天天弹幕","name": "天天｜弹幕","type": 3,"api": "csp_TianTian","jar": "./jar/bh.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": "aHR0cDovL29wLnlzZHFqcy5jbg=="}},
      
      
       //{"key": "小苹果弹幕","name": "苹果┃弹幕", "type": 3,"api": "csp_Xpg","jar": "./jar/bh.jar","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true }},
 
 	    
-    { "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
+    //{ "key": "文才弹幕","name": "文才┃弹幕","type": 3,"api": "csp_Jpys","jar": "./jar/bh.jar","playerType": 1,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": { "danmu": true }},
 	
 	
 	
