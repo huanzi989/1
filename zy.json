@@ -28,8 +28,7 @@
     
     
     
-   {"key": "抠搜","name": "🍄网盘扫码┃4K","type": 3,"api": "csp_KkSs","jar": "./jar/fan.txt","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
- 
+    
     
     
     
@@ -188,22 +187,7 @@
         
         
         
-        
-        
-        {
-            "key": "星河",
-            "name": "星河┃APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://121.62.22.204:9876",
-                "dataKey": "f5e2tx53ykp6s2c9",
-                "dataIv": "f5e2tx53ykp6s2c9",
-                "deviceId": "",
-                "version": "361"
-            }
-        },
+    
         
         
 
@@ -363,13 +347,6 @@
         
         
         
-        {
-            "key": "56动漫",
-            "name": "56┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/56动漫.js"
-        },
         
         
         {
@@ -390,101 +367,6 @@
         },
         
         
-        {
-            "key": "曼波动漫",
-            "name": "曼波┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://app.omofun1.top",
-                "dataKey": "66dc309cbeeca454",
-                "dataIv": "66dc309cbeeca454",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        
-        
-        {
-            "key": "稀饭动漫",
-            "name": "稀饭┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt",
-                "dataKey": "1yZ2Spn9krnzVKoC",
-                "dataIv": "1yZ2Spn9krnzVKoC",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        
-        
-        {
-            "key": "咕咕动漫",
-            "name": "咕咕┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.gugu3.com",
-                "dataKey": "nKfZ8KX6JTNWRzTD",
-                "dataIv": "nKfZ8KX6JTNWRzTD",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        
-        
-        {
-            "key": "米饭动漫",
-            "name": "米饭┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://45.43.29.111:9527",
-                "dataKey": "GETMIFUNGEIMIFUN",
-                "dataIv": "GETMIFUNGEIMIFUN",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        
-        
-        {
-            "key": "次元动漫",
-            "name": "次元┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://jjjj.nilinili.org",
-                "dataKey": "672263e98f232a05",
-                "dataIv": "672263e98f232a05",
-                "deviceId": "",
-                "version": "170"
-            }
-        },
-        
-        
-        {
-            "key": "派对动漫",
-            "name": "派对┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://qjappcms.acg.party",
-                "dataKey": "AmtMYFCJDPoTlK7z",
-                "dataIv": "AmtMYFCJDPoTlK7z",
-                "deviceId": "",
-                "version": ""
-            }
-        },
         
         
         {
@@ -518,113 +400,7 @@
             }
         },
         
-        
-        {
-            "key": "樱花动漫",
-            "name": "樱花┃动漫",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./XBPQ/樱花动漫.json"
-        },
-        
-        
-        {
-            "key": "巴士动漫",
-            "name": "巴士┃动漫",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "ext": "./XYQHiker/巴士动漫.json"
-        },
-        
-        
-        {
-            "key": "好看动漫",
-            "name": "好看┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/好看动漫.js"
-        },
-        
-        
-        {
-            "key": "奇米动漫",
-            "name": "奇米┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/奇米动漫.js"
-        },
-        
-        
-        {
-            "key": "花子动漫",
-            "name": "花子┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/花子动漫.js"
-        },
-        
-        
-        {
-            "key": "樱花动漫",
-            "name": "樱花┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/樱花动漫.js"
-        },
-        
-        
-        {
-            "key": "动画片",
-            "name": "动画片┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/动画片大全.js"
-        },
-        
-        
-        {
-            "key": "路漫漫",
-            "name": "路漫漫┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/路漫漫.js"
-        },
-        
-        
-        {
-            "key": "动漫岛",
-            "name": "动漫岛┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/动漫岛.js"
-        },
-        
-        
-        {
-            "key": "去看吧",
-            "name": "去看吧┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/去看吧.js"
-        },
-        
-        
-        {
-            "key": "爱弹幕",
-            "name": "爱弹幕┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/爱弹幕.js"
-        },
-        
-        
-        {
-            "key": "异世界",
-            "name": "异世界┃动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/异世界.js"
-        },
+      
         
         
         
