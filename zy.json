@@ -137,19 +137,7 @@
 
         
         
-        {
-            "key": "米诺",
-            "name": "米诺┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://www.milkidc.cn",
-                "dataKey": "20c79c979da8db0f",
-                "dataIv": "20c79c979da8db0f",
-                "deviceId": "",
-                "version": ""
-            }
-        },
+        
         
         
 
@@ -260,13 +248,7 @@
         },
         
         
-        {
-            "key": "绝对影视",
-            "name": "绝对┃影视",
-            "type": 3,
-            "api": "csp_FourK",
-            "ext": "https://www.4kvm.tv"
-        },
+        
         
         
 
