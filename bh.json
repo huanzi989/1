@@ -2,9 +2,9 @@
   "spider": "./spider.jar",
   "sites": [
     
+  {"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】🔜点击电视剧", "type": 3,"api": "csp_Douban","jar": "./o2.jar","searchable": 0},   
     
-    
-{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】 长辈专用全网聚合源","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./js/老人豆瓣.js " },
+//{"key": "drpy_js_豆瓣","name": "🌈公众号【宝盒视界】 长辈专用全网聚合源","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": " ./js/老人豆瓣.js " },
     
     
    {"key": "hipy_js_瓜子视频","name": "瓜子┃视频","type": 3, "searchable": 1,"quickSearch": 1,"changeable": 1, "playerType": "1","api": "./js/drpy2.min.js","ext": "./js/瓜子.js"},
