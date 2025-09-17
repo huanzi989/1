@@ -11,7 +11,7 @@
  
 {"key":"瓜子影视","name":"瓜子┃影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
        
-    {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./lib/爱动漫.js"},
+    {"key": "爱动漫(动漫)","name": "爱动漫(1080P)","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType": 1, "ext": "./js/爱动漫.js"},
     
     
     
@@ -809,4 +809,5 @@
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "notice": "🌈软件接口免费，请勿贩售~"
 }
+
 
