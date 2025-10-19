@@ -26,7 +26,7 @@
       "ext": "./js/酒井法子.json" },
     
     
-      //{"key": "抠搜","name": "🍄网盘扫码┃4K","type": 3,"api": "csp_KkSs","jar": "./jar/fan.txt","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
+      {"key": "抠搜","name": "🍄网盘扫码┃4K","type": 3,"api": "csp_KkSs","jar": "./jar/fan.txt","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
     
     
     
