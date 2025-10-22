@@ -1,0 +1,68 @@
+[
+    {
+        "name": "拷贝漫画",
+        "fileName": "copy_manga.js",
+        "key": "copy_manga",
+        "version": "1.3.8"
+    },
+    
+       {
+        "name": "包子漫画",
+        "fileName": "baozi.js",
+        "key": "baozi",
+        "version": "1.1.0"
+    },
+    
+   {
+        "name": "爱看漫",
+        "fileName": "ikmmh.js",
+        "key": "ikmmh",
+        "version": "1.0.4"
+    },
+    
+       {
+        "name": "优酷漫画",
+        "fileName": "ykmh.js",
+        "key": "ykmh",
+        "version": "1.0.0"
+    },
+    
+   {
+        "name": "再漫画",
+        "fileName": "zaimanhua.js",
+        "key": "zaimanhua",
+        "version": "1.0.1"
+    },
+
+    
+    {
+        "name": "Komiic",
+        "fileName": "komiic.js",
+        "key": "Komiic",
+        "version": "1.0.2"
+    },
+
+    {
+        "name": "禁漫天堂",
+        "fileName": "jm.js",
+        "key": "jm",
+        "version": "1.3.0",
+        "description": "禁漫天堂漫畫源, 不能使用時請嘗試切換分流"
+    },
+    
+    {
+        "name": "MangaDex",
+        "fileName": "manga_dex.js",
+        "key": "manga_dex",
+        "version": "1.0.0",
+        "description": "Account feature is not supported yet."
+    },
+    
+
+    {
+        "name": "Lanraragi",
+        "fileName": "lanraragi.js",
+        "key": "lanraragi",
+        "version": "1.1.0"
+    }
+]
