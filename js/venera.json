@@ -1,0 +1,46 @@
+[
+    {
+        "name": "拷贝漫画",
+        "fileName": "拷贝漫画.js",
+        "key": "copy_manga",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Komiic",
+        "fileName": "komiic.js",
+        "key": "Komiic",
+        "version": "1.0.0"
+    },
+    {
+        "name": "包子漫画",
+        "fileName": "包子漫画.js",
+        "key": "baozi",
+        "version": "1.0.0"
+    },
+    
+    {
+        "name": "MangaDex",
+        "fileName": "manga_dex.js",
+        "key": "manga_dex",
+        "version": "1.0.0",
+        "description": "Account feature is not supported yet."
+    },
+    {
+        "name": "爱看漫画",
+        "fileName": "爱看漫画.js",
+        "key": "ikmmh",
+        "version": "1.0.0"
+    },
+    {
+        "name": "再看漫画",
+        "fileName": "再看漫画.js",
+        "key": "zaimanhua",
+        "version": "1.0.0"
+    },
+    {
+        "name": "漫画人",
+        "fileName": "漫画人.js",
+        "key": "manhuaren",
+        "version": "1.0.0"
+    }
+]
